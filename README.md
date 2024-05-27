@@ -1,0 +1,9 @@
+- GO go version go1.22.3 linux/amd64
+- Golang cosmtrek/air for hot-reloading
+- gRPC for communication between services.
+- RabbitMQ as message broker
+- Docker with docker compose.
+- MongoDB as storage layer
+- Jager for service tracking.
+- HashiCorp's Consul for service discovery.
+- Stripe for payments .
